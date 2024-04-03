@@ -10,7 +10,7 @@ namespace M03UF5AC1
             string mission = "";
             int score = 0;
 
-            for (int i=0; i<3;)
+            for (int i=0; i<10;)
             {
                 Console.WriteLine("Enter player name: ");
                 name = Console.ReadLine();
